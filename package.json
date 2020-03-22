@@ -1,0 +1,32 @@
+{
+  "name": "@yelysei/data-structures",
+  "version": "1.0.0",
+  "description": "Common data structures like Stack, List, Tree, etc.",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "tsc && node ./lib/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YelyseiLukin/data-structures.git"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "list",
+    "tree",
+    "stack",
+    "queue"
+  ],
+  "author": "Yelysei Lukin <ylukin277@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YelyseiLukin/data-structures/issues"
+  },
+  "homepage": "https://github.com/YelyseiLukin/data-structures#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
