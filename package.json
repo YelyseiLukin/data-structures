@@ -1,7 +1,7 @@
 {
   "name": "@yelysei/data-structures",
   "version": "1.0.0",
-  "description": "Common data structures like Stack, List, Tree, etc.",
+  "description": "Common data structures like Stack, List, Queue, Tree, etc.",
   "main": "src/index.ts",
   "scripts": {
     "start": "tsc && node ./lib/index.js",
